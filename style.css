@@ -246,3 +246,10 @@ padding: 10px;
  }
   
 }
+
+@media screen and (max-width:600px) {
+  .sale-image__offer{
+    font-size: 6px;
+  }
+  
+}
